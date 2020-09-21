@@ -3,6 +3,6 @@
   height: 800px;
   width: 80vw;
   background-color: rgb(255, 255, 255);
-  border-radius: 5px;
-  box-shadow: rgba(0, 0, 0, 0.4) 0 1px 15px 1px;
+  border-radius: 2px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0 1px 15px 1px;
 }
